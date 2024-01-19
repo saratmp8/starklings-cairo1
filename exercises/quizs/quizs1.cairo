@@ -10,7 +10,7 @@ fn calculate_price_of_apples(num_apples: u16) -> u16 {
      if num_apples <= 40 {
          price = 3;
      }
-     price * n_apples
+     price * num_apples
  }
 
 // Do not change the tests!
