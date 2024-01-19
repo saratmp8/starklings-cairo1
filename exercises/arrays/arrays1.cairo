@@ -12,6 +12,7 @@ fn create_array() -> Array<felt252> {
     a.append(0);
     a.append(1);
     a.append(2);
+    a
 }
 
 // Don't change anything in the test
